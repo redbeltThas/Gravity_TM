@@ -21,6 +21,7 @@ public class GravityFlip : MonoBehaviour
             Vector3 newDirection = transform.localScale;
          newDirection.y = newDirection.y * -1;
             Debug.Log(newDirection);
+            gameObject.transform.localScale = newDirection;
         }
         
     }
