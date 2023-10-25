@@ -13,6 +13,7 @@ public class EnemyMovement : MonoBehaviour
     public int minimumXPosition;
     public float startingX;
     public float startingY;
+    public int enemyCount;
 
     void Start()
     {
@@ -36,7 +37,12 @@ public class EnemyMovement : MonoBehaviour
         if (collision.gameObject.tag == "Weapon")
         {
             Destroy(gameObject);
+
+            GameObject.Find("Portal").GetComponent<Teleport>().enemyCount -= 1;
+
         }
+
+        
         
     }
 

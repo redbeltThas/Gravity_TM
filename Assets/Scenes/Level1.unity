@@ -668,6 +668,7 @@ MonoBehaviour:
   minimumXPosition: -31
   startingX: 18.46
   startingY: -10.77
+  enemyCount: 0
 --- !u!1 &149124530
 GameObject:
   m_ObjectHideFlags: 0
@@ -2385,7 +2386,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -21.525137, y: 2.5015512, z: -10}
+  m_LocalPosition: {x: -22.569214, y: 2.5018826, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3115,7 +3116,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -162, y: 151.1}
+  m_AnchoredPosition: {x: -141.4, y: 155.1}
   m_SizeDelta: {x: 103.96782, y: 143.7102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1432772747
@@ -3184,6 +3185,7 @@ MonoBehaviour:
   minimumXPosition: -31
   startingX: -3.8
   startingY: 4.28
+  enemyCount: 0
 --- !u!1 &1498216037
 GameObject:
   m_ObjectHideFlags: 0
@@ -3812,6 +3814,7 @@ MonoBehaviour:
   minimumXPosition: -31
   startingX: -25.22
   startingY: -10.8
+  enemyCount: 0
 --- !u!1 &1805497267
 GameObject:
   m_ObjectHideFlags: 0
@@ -3952,7 +3955,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -212.82, y: 190.5}
+  m_AnchoredPosition: {x: -188.96, y: 192.49}
   m_SizeDelta: {x: 53.34784, y: 50.015533}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1846723894
@@ -4123,6 +4126,7 @@ MonoBehaviour:
   minimumXPosition: -31
   startingX: 9.9
   startingY: -10.63
+  enemyCount: 0
 --- !u!1 &2041557193
 GameObject:
   m_ObjectHideFlags: 0

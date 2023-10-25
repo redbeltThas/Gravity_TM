@@ -10,6 +10,7 @@ TagManager:
   - ThrowingObject
   - Weapon
   - Exit
+  - Gem
   layers:
   - Default
   - TransparentFX
